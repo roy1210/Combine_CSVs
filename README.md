@@ -29,4 +29,9 @@ $ pip install --upgrade pip
 6. `$ python3 Combine_CSVs.py`
 7. `$ deactivate`
 
-Ref: https://realpython.com/python-virtual-environments-a-primer/
+## Ref
+
+https://www.freecodecamp.org/news/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854/
+
+https://realpython.com/python-virtual-environments-a-primer/
+
